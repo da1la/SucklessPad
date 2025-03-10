@@ -1,2 +1,2 @@
 # SucklessPad
-Ultimate PCB replacement for Xbox 360 controller
+idk what to write rn, so i'm searching arduino/esp32 coders 
