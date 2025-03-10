@@ -25,9 +25,9 @@ answer is very easy. i just wanna cool bluetooth gamepad for cheap
 2. Simple Type-c breakout board
 3. Any programmer that can flash ESP32s
 4. MX1508 dual motor driver
-5. IP6306 chip
+5. IP5306 chip
 6. Any li-ion/li-po battery
-7. One hand
+7. One hand (more is better)
 8. Soldering iron
 
 # Also you may add:
