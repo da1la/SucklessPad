@@ -22,10 +22,10 @@ Why am i doing that s##t ? Answer is very easy, i just wanna maximally functiona
 
 # To build basic board you'll need:
 1. ESP32s
-2. Simple Type-c breakout board
-3. Any programmer that can flash ESP32s
-4. MX1508 dual motor driver
-5. IP5306 chip
+2. Any programmer that can flash ESP32s
+3. MX1508 dual motor driver
+4. TP4506 module
+5. AMS1117 3.3v stabilizer
 6. Few resistors and caps
 7. 2N3904 transistor
 8. Any li-ion/li-po battery
@@ -41,8 +41,9 @@ Why am i doing that s##t ? Answer is very easy, i just wanna maximally functiona
 5. Holo sticks (why not ?)
 
 # Schematics
-![Schematic_SucklessPAD-MT6701A-Easy-CC_2025-03-11](https://github.com/user-attachments/assets/4f0097e4-e68f-4fc4-a78d-6f7355533668)
-![Schematic_SucklessPAD-SS49E-Easy-CC_2025-03-11](https://github.com/user-attachments/assets/6aad4040-3c51-45e7-a0c3-fc45e72e5084)
+![Schematic_SucklessPAD-SS49E-Easy-CC_2025-03-11](https://github.com/user-attachments/assets/7ba3fd3b-9b96-4f8d-85f8-788daeaf18a5)
+![Schematic_SucklessPAD-MT6701A-Easy-CC_2025-03-11](https://github.com/user-attachments/assets/1ae25ab6-496a-4bae-b18d-f1f39433c848)
+
 
 
 # PCB 
