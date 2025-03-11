@@ -46,6 +46,8 @@ answer is very easy. i just wanna cool bluetooth gamepad for cheap
 
 
 # PCB 
-(WIP right now, will be added later)
+(WIP right now, will be finished later)
+![PCB_SucklessPAD-MT6701_2025-03-11](https://github.com/user-attachments/assets/55416072-0c77-431a-91d0-07ff5a5aad16)
+
 
 ### I'M IN SEARCH OF NICE ARDUINO CODERS, PLEASE NO GROK/CHAIGPT OR OTHER AI "CODE" (i'll do it by myself)
