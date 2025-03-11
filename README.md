@@ -38,6 +38,10 @@ answer is very easy. i just wanna cool bluetooth gamepad for cheap
 4. BMI160 for gyroscope
 5. Holo sticks (why not ?)
 
+# Schematics
+![Schematic_Suckless-PAD_2025-03-11](https://github.com/user-attachments/assets/071cbc18-36fe-41b3-bb4b-ee1879fa26b5)
+
+
 # PCB 
 (WIP right now, will be added later)
 
