@@ -39,8 +39,8 @@ answer is very easy. i just wanna cool bluetooth gamepad for cheap
 5. Holo sticks (why not ?)
 
 # Schematics
-![Schematic_Suckless-PAD_2025-03-11](https://github.com/user-attachments/assets/071cbc18-36fe-41b3-bb4b-ee1879fa26b5)
-
+![Schematic_SucklessPAD-MT6701A_2025-03-11](https://github.com/user-attachments/assets/a93c8993-ea98-4054-aecc-6ee631040af5)
+![Schematic_SucklessPAD-SS49E-with-I2C-charger_2025-03-11](https://github.com/user-attachments/assets/4f58ed33-c130-46bb-ad1f-c2581033a98f)
 
 # PCB 
 (WIP right now, will be added later)
