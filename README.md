@@ -1,7 +1,7 @@
 # SucklessPad
 # This project is aimed to all who wanna from their gamepads more than just few buttons on cable.
-Why am i doing that s##t ?
-answer is very easy. i just wanna cool bluetooth gamepad for cheap
+## Make your controller great again
+Why am i doing that s##t ? Answer is very easy, i just wanna maximally functional bluetooth gamepad for cheap
 
 # Features in future:
 1. Holo triggers
