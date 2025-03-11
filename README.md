@@ -26,9 +26,11 @@ answer is very easy. i just wanna cool bluetooth gamepad for cheap
 3. Any programmer that can flash ESP32s
 4. MX1508 dual motor driver
 5. IP5306 chip
-6. Any li-ion/li-po battery
-7. One hand (more is better)
-8. Soldering iron
+6. Few resistors and caps
+7. 2N3904 transistor
+8. Any li-ion/li-po battery
+9. One hand (more is better)
+10. Soldering iron
 
 # Also you may add:
 1. MT6701A for magnetic triggers
@@ -39,8 +41,9 @@ answer is very easy. i just wanna cool bluetooth gamepad for cheap
 5. Holo sticks (why not ?)
 
 # Schematics
-![Schematic_SucklessPAD-MT6701A_2025-03-11](https://github.com/user-attachments/assets/a93c8993-ea98-4054-aecc-6ee631040af5)
-![Schematic_SucklessPAD-SS49E-with-I2C-charger_2025-03-11](https://github.com/user-attachments/assets/4f58ed33-c130-46bb-ad1f-c2581033a98f)
+![Schematic_SucklessPAD-MT6701A-Easy-CC_2025-03-11](https://github.com/user-attachments/assets/4f0097e4-e68f-4fc4-a78d-6f7355533668)
+![Schematic_SucklessPAD-SS49E-Easy-CC_2025-03-11](https://github.com/user-attachments/assets/6aad4040-3c51-45e7-a0c3-fc45e72e5084)
+
 
 # PCB 
 (WIP right now, will be added later)
