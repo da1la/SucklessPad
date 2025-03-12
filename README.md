@@ -48,7 +48,9 @@ Why am i doing that s##t ? Answer is very easy, i just wanna maximally functiona
 
 # PCB 
 (WIP right now, will be finished later)
-![PCB_SucklessPAD-MT6701_2025-03-11](https://github.com/user-attachments/assets/55416072-0c77-431a-91d0-07ff5a5aad16)
+![pcb_MT6701](https://github.com/user-attachments/assets/784750d4-b139-4751-a33c-146731c220ee)
+![pcb_MT6701](https://github.com/user-attachments/assets/1fab5842-bd80-4b3d-8fab-43680f1993d7)
+
 
 
 ### I'M IN SEARCH OF NICE ARDUINO CODERS, PLEASE NO GROK/CHAIGPT OR OTHER AI "CODE" (i'll do it by myself)
