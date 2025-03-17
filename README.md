@@ -47,7 +47,7 @@ Why am i doing that s##t ? Answer is very easy, i just wanna maximally functiona
 
 
 # PCB 
-(WIP right now, will be finished later)
+(WIP right now, will be finished later. After full test of codebase)
 ![pcb_MT6701](https://github.com/user-attachments/assets/784750d4-b139-4751-a33c-146731c220ee)
 ![pcb_MT6701](https://github.com/user-attachments/assets/1fab5842-bd80-4b3d-8fab-43680f1993d7)
 
