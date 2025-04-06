@@ -1,5 +1,8 @@
 # SucklessPad
-# This project is aimed to all who wanna from their gamepads more than just few buttons on cable.
+
+# ⚠️⚠️⚠️ The project is frozen because esp32 hates me
+
+## This project is aimed to all who wanna from their gamepads more than just few buttons on cable.
 ## Make your controller great again
 Why am i doing that s##t ? Answer is very easy, i just wanna maximally functional bluetooth gamepad for cheap
 
